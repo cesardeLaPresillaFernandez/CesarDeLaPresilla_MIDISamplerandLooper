@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/.cxx/Debug/12365568/x86_64",
+  "command": "C:\\Users\\cesar.de.la.presilla\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android29 --sysroot=C:/Users/cesar.de.la.presilla/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_midi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Wextra -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native_midi.dir\\AppMidiManager.cpp.o -c C:\\Users\\cesar.de.la.presilla\\Desktop\\native-midi\\app\\src\\main\\cpp\\AppMidiManager.cpp",
+  "file": "C:\\Users\\cesar.de.la.presilla\\Desktop\\native-midi\\app\\src\\main\\cpp\\AppMidiManager.cpp"
+},
+{
+  "directory": "C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/.cxx/Debug/12365568/x86_64",
+  "command": "C:\\Users\\cesar.de.la.presilla\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android29 --sysroot=C:/Users/cesar.de.la.presilla/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_midi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Wextra -Werror -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native_midi.dir\\MainActivity.cpp.o -c C:\\Users\\cesar.de.la.presilla\\Desktop\\native-midi\\app\\src\\main\\cpp\\MainActivity.cpp",
+  "file": "C:\\Users\\cesar.de.la.presilla\\Desktop\\native-midi\\app\\src\\main\\cpp\\MainActivity.cpp"
+}
+]

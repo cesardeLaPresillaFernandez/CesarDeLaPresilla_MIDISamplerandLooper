@@ -1,0 +1,3 @@
+C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/.cxx/Debug/12365568/x86/CMakeFiles/native_midi.dir
+C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/.cxx/Debug/12365568/x86/CMakeFiles/edit_cache.dir
+C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/.cxx/Debug/12365568/x86/CMakeFiles/rebuild_cache.dir

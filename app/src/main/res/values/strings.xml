@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">native midi</string>
+    <string name="title_activity_menu">ActivityMenu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="usuario">Usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="looper">Metronomo-Recorder</string>
+    <string name="samper">Pad-Sampler</string>
+    <string name="metronomo">METRÓNOMO SI/NO</string>
+    <string name="bpm">BPM</string>
+    <string name="vol">VOL</string>
+    <string name="borrar">BORRAR</string>
+    <string name="octava">Octava</string>
+    <string name="fx">FX</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="parar">PARAR</string>
+    <string name="salida">SALIDA</string>
+    <string name="entrada">ENTRADA</string>
+</resources>

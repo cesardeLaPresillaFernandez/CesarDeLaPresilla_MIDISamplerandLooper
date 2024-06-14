@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A9A9A9"
+    tools:context=".ActivitySampler">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+
+        <TextView
+            android:text="@string/salida"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:textSize="30sp"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:id="@+id/outputDevicesSpinner"/>
+
+        <TextView
+            android:text="Mod Wheel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:paddingTop="16dp"/>
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:id="@+id/controllerSeekBar"/>
+
+        <TextView
+            android:text="Pitch Bend"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:visibility="invisible"
+            android:paddingTop="16dp"/>
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:visibility="invisible"
+            android:id="@+id/pitchBendSeekBar"/>
+
+
+
+        <TextView
+            android:text="@string/entrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:textSize="30sp"
+            android:paddingTop="16dp"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:id="@+id/inputDevicesSpinner"/>
+        <TextView
+            android:text="Messages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_marginLeft="480dp"
+            android:paddingTop="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="480dp"
+            android:id="@+id/receiveMessageTx"/>
+
+        <EditText
+            android:id="@+id/progNumEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btSamlpler1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler4"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+
+    <Button
+        android:id="@+id/btSamlpler5"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler6"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler7"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler8"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+
+    <Button
+        android:id="@+id/btSamlpler9"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler10"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler11"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+    <Button
+        android:id="@+id/btSamlpler12"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="320dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="8dp"
+        />
+
+
+
+</RelativeLayout>

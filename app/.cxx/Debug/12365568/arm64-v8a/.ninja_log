@@ -1,0 +1,4 @@
+# ninja log v5
+3	3166	724258574	CMakeFiles/native_midi.dir/MainActivity.cpp.o	4bcacc5a41b77476
+1627	9533	724258581	CMakeFiles/native_midi.dir/AppMidiManager.cpp.o	cc404c9b31cc3fc7
+9539	12528	724258584	C:/Users/cesar.de.la.presilla/Desktop/native-midi/app/build/intermediates/cxx/Debug/12365568/obj/arm64-v8a/libnative_midi.so	cbeef865dc4fbc12

@@ -1,0 +1,4 @@
+# ninja log v5
+0	453	739134934	CMakeFiles/native_midi.dir/MainActivity.cpp.o	e0f4162d64ac19bd
+5	2697	739134937	CMakeFiles/native_midi.dir/AppMidiManager.cpp.o	e6f5abb60ab5b282
+2699	3872	739134938	C:/Users/Cesar/Desktop/tfc/native-midi/app/build/intermediates/cxx/Debug/5f3p5j2u/obj/armeabi-v7a/libnative_midi.so	a3d7a35ae80041cf
